@@ -7,6 +7,8 @@ This is a Matlab code developed using MATLAB R2020a. We provide a .xls file (ven
 
 Running the code: 
 
+You need to download this entire directory - all those extra .m files are functions that are called by the code at various points - you need only to download them and stick them in the exact same directory as the 'run_event_source_model.m' file.
+
 There are 4 lines of information you need to customize to run the code - they are described at the top of the 'run_event_source_model.m' file. We provide the required hillshades used to plot the cases described in Gallant et al., 202X in a sub folder in this repository. 
 
 In order to run the code, you simply type 'run_event_source_model' in the matlab command window, or press the triangular green button in the editor tab to run. 
